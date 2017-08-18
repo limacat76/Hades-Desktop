@@ -8,7 +8,7 @@ Then the web 2.0 came... and smartphones... and walled gardens, and appstores. A
 
 1. They came for my usenet.
 
-They saved e-mail by putting anti-spam systems, but nobody cared about saving usenet from itself. Unfortunately private e-mail nowadays is used to push registration links, password reset and SOLICITED commercial e-mail. A really big victory indeed.
+They saved e-mail by putting anti-spam systems against unsolicited commercial e-mail, but nobody cared about saving usenet from itself. Unfortunately private e-mail nowadays is used to push registration links, password reset and SOLICITED commercial e-mail. A really big victory indeed.
 
 2. Then they came for my status line.
 
