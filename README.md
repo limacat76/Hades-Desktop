@@ -30,7 +30,7 @@ There are too many protocols already.
 
 And for anonymity too.
 
-## How does HADES tries to accomplish it?
+## How does HADES tries to accomplish its aims?
 
 - One desktop application at a time
 
