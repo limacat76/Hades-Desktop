@@ -1,41 +1,38 @@
 # It's the future! Where are flying cars and laser guns?
 
-The early millenium was shaping up fine. People met on the internet, flamed on usenet, married in mmorpgs and shared stuff. Likes were exchanged in real life with real life beer. There was also drama, but drama was consumed in itself.
+Hades is an experimental project to create software that subverts how we see desktop software, and internet software.
 
-Then the web 2.0 came... and smartphones... and walled gardens, and appstores. And everything crumbled. 
+Call it "art installation" or concept, discussion, brainfart or just the fact that I am fed up with trusting my data to third parties that one day might shut down, get inglobated and shut down or be otherwise get walled off.
 
-## What we lost
+## Hades Aims
 
-1. They came for my usenet.
+- Your interaction is around places, channel and people
 
-They saved e-mail by putting anti-spam systems against unsolicited commercial e-mail, but nobody cared about saving usenet from itself. Unfortunately private e-mail nowadays is used to push registration links, password reset and SOLICITED commercial e-mail. A really big victory indeed.
+Currently desktops allow you to interact with files and applications.
+What if instead we thought of desktop software as interacting with other people, channels and even places?
 
-2. Then they came for my status line.
+- Data migrates with you, and you can publish it easily to other people, if you wish
 
-Oh yes, a status line is an obnoxious feature. It removes space from the window for something I might change or not change for long stretches of time. The important thing is the green light and the little keyboard (or phone) icon that tells where I am. There may be a poop emoji, but there's no poop status icon.
+- Turn desktop software into something awesome to use
 
-3. In the end they removed my avatar. 
+## Hades Non-Aims
 
-They forced the population to use their Real Names thinking they would not be so stupid to use it to spew hate. They were wrong. But that was not the point. The point of Real Names was to make internet users into sellable assets.
+- Reinvent the wheel
 
-## However
+If an use-case is already covered, I will try to not re-cover it.
+Proposing ides and text editors is explicitly forbidden.
 
-The dirty truth of web 2.0 and commercial (appstore) software is that when a website or software disappears, your data disapppears, including the ways you consumed and transformed the internet with it.
+- Invent new protocols
 
-# A modest proposal
+There are too many protocols already.
 
-Let's take back the internet step-by-step by taking back the computer desktop.
-Let's take back the computer desktop by subverting what we think about how we use computers.
+- Hide you from the rest of the internet
 
-# What can we do.
+And for anonymity too.
 
-1. Start a discussion about what desktop computing lacks or misses
+## How does HADES tries to accomplish it?
 
-And that absolutely does not mean toolkits, ides, editors or media players
-
-2. Implement it
-
-3. Have fun 
+- One desktop application at a time
 
 ### Help and Shortcuts
 
