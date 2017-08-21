@@ -15,6 +15,8 @@ What if instead we thought of desktop software as interacting with other people,
 
 - Turn desktop software into something awesome to use
 
+And for the destkop we mean applications that directly interact with people.
+
 ## Hades Non-Aims
 
 - Reinvent the wheel
