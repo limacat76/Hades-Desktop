@@ -26,11 +26,11 @@ Proposing ides and text editors is explicitly forbidden.
 
 - Invent new protocols
 
-There are too many protocols already.
+There are too many low level internet protocols already. We will try to reuse what it available already
 
 - Hide you from the rest of the internet
 
-And for anonymity too.
+Privacy comes from you using good practices with good tools. There are already many good tools to use for privacy.
 
 ## How does HADES tries to accomplish its aims?
 
