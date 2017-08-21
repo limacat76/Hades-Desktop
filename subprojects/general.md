@@ -5,3 +5,26 @@ See [invisiblethings](https://blog.invisiblethings.org/2015/02/09/my-new-git-bas
 GTK+	https://en.wikipedia.org/wiki/GTK%2B
 Glib 	https://en.wikipedia.org/wiki/GDK
 Gio	https://en.wikipedia.org/wiki/GIO_(software) 
+
+sudo apt-get install meson g++ valgrind
+sudo apt-get install gnome-devel gnome-devel-docs 
+
+Things from Freedesktop to eventually study
+
+    Dbus
+    cppunit
+    Geoclue
+    AccountsService
+    Avahi
+    Lib Cairo
+    DVFS (libgnomevfs)
+    Enchant
+    libevdev
+    libinput
+    telepathy
+
+Tools:
+    Bustle
+
+For inspiration:
+    Cairo-Dock
